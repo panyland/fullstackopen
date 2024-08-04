@@ -1,5 +1,5 @@
 # fullstackopen
-Helsingin yliopiston Full Stack MOOC:in tehtävien repositorio.
+Helsingin yliopiston Full Stack MOOC:in (fullstackopen.com) tehtävien repositorio.
 Tehtävät on jaoteltu osien mukaisesti seuraavaan kansiorakenteeseen:
 - Osa0
   - tehtävä 0.5
